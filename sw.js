@@ -12,7 +12,7 @@
    app para que los usuarios reciban la versión nueva.
    ===================================================== */
 
-const CACHE_VERSION = 'monly-cache-v2';
+const CACHE_VERSION = 'monly-cache-v3';
 
 const PRECACHE_URLS = [
   './',
